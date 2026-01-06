@@ -14,7 +14,6 @@
     <xi:include href="./contact_information/main.ptx" />
     <xi:include href="./course_information/main.ptx"/>
     <xi:include href="./evaluation/main.ptx"/>
-    <xi:include href="./standards.ptx"/>
     <xi:include href="./course_policies/main.ptx"/>
     <xi:include href="./student_services/main.ptx"/>
     <xi:include href="./schedule/main.ptx"/>
