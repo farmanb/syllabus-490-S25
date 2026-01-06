@@ -1,3 +1,7 @@
-# My Great Article
+# Math 490 - 001
+## Spring 2025
+### Louisiana Tech University
 
-Visit <https://pretextbook.org/documentation.html> to learn more.
+---
+
+Syllabus
