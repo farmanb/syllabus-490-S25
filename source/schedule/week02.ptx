@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-02">
+  <title>March 17 <ndash/> March 21</title>
+  <p>
+    <dl>
+      <li>
+	<title>March 17</title>
+      	<p>
+	  Definitions, Variables, Sections, Namespaces
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/dependent_type_theory.html">Theorem Proving in Lean, Ch. 2</url></p> </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>March 19</title>
+	<p>
+	  Logic, Structured Proofs
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/propositions_and_proofs.html">Theorem Proving in Lean, Ch. 3</url></p> </li>
+	    <li><p>Hitchhiker's Guide to Logical Verification, <section-mark/>4.1, <section-mark/>4.2 </p></li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>March 21</title>
+	<p>
+	  Classical Logic
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/propositions_and_proofs.html">Theorem Proving in Lean, Ch. 3</url></p> </li>
+	    <li><p>Hitchhiker's Guide to Logical Verification, <section-mark/>4.1, <section-mark/>4.2 </p></li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

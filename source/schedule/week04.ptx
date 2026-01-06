@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-04">
+  <title>March 31 <ndash/> April 4</title>
+  <p>
+    <dl>
+      <li>
+	<title>March 31</title>
+	<p>
+	  Basic Inductive Types
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/inductive_types.html">Theorem Proving in Lean, Ch. 7</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>5.1 <ndash/> <section-mark/>5.4
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>April 2</title>
+	<p>Constructing the Natural Numbers
+	<ul>
+	  <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/inductive_types.html">Theorem Proving in Lean, Ch. 7</url></p> </li>
+	  <li>
+	    <p>
+	      <url href="https://leanprover-community.github.io/mathematics_in_lean/C05_Elementary_Number_Theory.html#induction-and-recursion">Mathematics in Lean, <section-mark/>5.2</url>
+	    </p>
+	  </li>
+	</ul>
+	</p>
+      </li>
+      <li>
+	<title>April 4</title>
+	<p>
+	  Lists
+	  <ul>
+	    <li>
+	      <p>
+		<url href="https://lean-lang.org/theorem_proving_in_lean4/inductive_types.html">Theorem Proving in Lean, Ch. 7</url>
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>5.1 <ndash/> <section-mark/>5.4
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

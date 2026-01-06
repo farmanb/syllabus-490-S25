@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-07">
+  <title>April 21 <ndash/> April 25</title>
+  <p>
+    <dl>
+      <li>
+	<title>April 21</title>
+	<p>No Classes (University Closed for Easter)</p>
+      </li>
+      <li>
+	<title>April 23</title>
+	<p>
+	  <dataurl source="pdf/algebraic_structures.pdf">Algebraic Structures</dataurl>
+	</p>
+      </li>
+      <li>
+	<title>April 23</title>
+	<p>
+	  Algebraic Structures in Lean I (Operations and Monoids)
+	  <ul>
+	    <li>
+	      <p>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C06_Structures.html#algebraic-structures">Mathematics in Lean, <section-mark/> 6.2 </url>
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

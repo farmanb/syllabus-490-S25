@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Evaluation</title>
+  
+  <subsection xml:id="egagement">
+    <title>Participation and Engagement</title>
+    <p>
+      Active participation is essential for success in this course.
+      Students are expected to attend all classes, contribute to discussions, and engage in collaborative activities.
+      This includes asking questions, sharing insights, and working effectively during in-class exercises or group work.
+    </p>
+    <p>
+      Constructive engagement allows students to deepen their understanding of the material, learn from their peers, and build essential problem-solving and communication skills that will be valuable in future coursework and careers.
+    </p>
+  </subsection>
+  
+  <subsection xml:id="homework">
+    <title>Homework</title>
+    <p>
+      Homework assignments are a critical component of the course.
+      They are designed to reinforce the concepts covered in lectures and provide hands-on experience using Lean.
+      Assignments will include a mix of logical proofs, programming tasks, and conceptual exercises.
+      Solutions must be submitted on time and will be graded for clarity and correctness.
+      Collaboration is encouraged, but each student must submit their own work.
+    </p>
+  </subsection>
+
+  <subsection>
+    <title>Projects</title>
+    <introduction>
+      <p>
+	Projects are a significant component of the course, giving students the opportunity to apply their knowledge to formalize and verify mathematical or computational concepts in Lean.
+	These projects will build problem-solving skills, encourage creativity, and allow students to explore the potential of interactive theorem proving.
+	Both the midterm and final projects will be evaluated based on technical accuracy, clarity of exposition, creativity, and teamwork.
+      </p>
+    </introduction>
+
+    <subsubsection>
+      <title>Midterm Project</title>
+      <p>
+	Students will work in small groups to formalize a specific problem or proof in Lean.
+	The midterm project will focus on a foundational topic, with structured guidance provided to ensure students develop proficiency in key skills.
+	<!-- Students will work in small groups to formalize a specific problem or proof in Lean, with clear deliverables and evaluation criteria. -->
+      </p>
+    </subsubsection>
+
+    <subsubsection>
+      <title>Final Project</title>
+      <p>
+	The final project will allow students to choose from a list of complex problems that align with their interests and demonstrates their mastery of course material.
+	Projects will require students to design and implement creative solutions, formalize their work in Lean, and present their work to the class.
+	<!-- Graduate students will lead undergraduate teams for the projects, taking on additional responsibilities such as mentoring, coordinating efforts, and ensuring project milestones are met.  -->
+      </p>
+    </subsubsection>
+  </subsection>
+
+  <subsection xml:id="quizzes">
+    <title>Quizzes</title>
+    <p>
+      Quizzes will be administered periodically to assess understanding of key concepts and ensure students are keeping up with the material.
+      These will be short, focused assessments designed to reinforce learning and identify areas for improvement.
+      Quizzes may include logical proofs, questions about Lean syntax, or problem-solving tasks.
+      They are an opportunity to practice applying course concepts and receive feedback on your progress.
+    </p>
+  </subsection>
+
+  <subsection xml:id="weights-490">
+    <title>Weights</title>
+    <p>
+      Grades will be calculated using the weights below.
+    </p>
+
+    <assemblage>
+      <title>Evaluation Criteria</title>
+      <tabular>
+	<row header="yes" bottom="minor" >
+	  <cell>Grade Category</cell>
+	  <cell>Weight</cell>
+	</row>
+	<row>
+	  <cell>Participation and Engagement</cell>
+	  <cell>10%</cell>
+	</row>
+	<row>
+	  <cell>Homework</cell>
+	  <cell>30%</cell>
+	</row>
+	<row>
+	  <cell>Midterm Project</cell>
+	  <cell>20%</cell>
+	</row>
+	<row>
+	  <cell>Quizzes</cell>
+	  <cell>10%</cell>
+	</row>
+	<row>
+	  <cell>Final Project</cell>
+	  <cell>30%</cell>
+	</row>
+      </tabular>
+    </assemblage>
+  </subsection>
+
+  <subsection xml:id="grading_scale">
+    <title>Grading Scale</title>
+
+    <p>
+      Letter grades will be assigned based on the scale below.
+    </p>
+
+    <assemblage>
+      <title>Grading Scale</title>
+      <tabular halign="center">
+	<row header="yes" bottom="minor" >
+	  <cell>Average</cell>
+	  <cell>Letter Grade</cell>
+	</row>
+	<row>
+	  <cell><m>[90\%,100\%]</m></cell>
+	  <cell>A</cell>
+	</row>
+	<row>
+	  <cell><m>[80\%,90\%)</m></cell>
+	  <cell>B</cell>
+	</row>
+	<row>
+	  <cell><m>[70\%,80\%)</m></cell>
+	  <cell>C</cell>
+	</row>
+	<row>
+	  <cell><m>[60\%,70\%)</m></cell>
+	  <cell>D</cell>
+	</row>
+	<row>
+	  <cell><m>[0\%,60\%)</m></cell>
+	  <cell>F</cell>
+	</row>
+      </tabular>
+    </assemblage>
+  </subsection>
+</section>

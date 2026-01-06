@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-08">
+  <title>April 28<ndash/> May 2</title>
+  <p>
+    <dl>
+      <li>
+	<title>April 28</title>
+	<p>Class Cancelled (Jury Duty)</p>
+      </li>
+      <li>
+	<title>April 31</title>
+	<p>
+	  Algebraic Structures in Lean II (Groups)
+	  <ul>
+	    <li>
+	      <p>
+		<url href="https://leanprover-community.github.io/mathematics_in_lean/C06_Structures.html#algebraic-structures">Mathematics in Lean, <section-mark/> 6.2 </url>
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>May 2</title>
+	<p>
+	  Final Project proposals
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

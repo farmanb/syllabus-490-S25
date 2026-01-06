@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-01">
+  <title>March 12 <ndash/> March 14</title>
+  <p>
+    <dl>
+      <li>
+	<title>March 12</title>
+      	<p>Introduction and Setup</p>
+      </li>
+      <li>
+	<title>March 14</title>
+	<p>
+	  Terms and Types
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/dependent_type_theory.html">Theorem Proving in Lean, Ch. 2</url></p> </li>
+	    <li><p>Hitchhiker's Guide to Logical Verification, <section-mark/>1.1, <section-mark/> 1.2</p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

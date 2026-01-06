@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-03">
+  <title>March 24 <ndash/> March 28</title>
+  <p>
+    <dl>
+      <li>
+	<title>March 24</title>
+      	<p>
+	  Universal Quantifiers
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/quantifiers_and_equality.html">Theorem Proving in Lean, Ch. 4</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>4.3
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>March 26</title>
+      	<p>
+	  Existential Quantifiers
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/quantifiers_and_equality.html">Theorem Proving in Lean, Ch. 4</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>4.3
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>March 28</title>
+      	<p>
+	  Tactics
+	  <ul>
+	    <li><p><url href="https://lean-lang.org/theorem_proving_in_lean4/tactics.html">Theorem Proving in Lean, Ch. 5</url></p> </li>
+	    <li>
+	      <p>
+		Hitchhiker's Guide to Logical Verification, <section-mark/>3.1 <ndash/> 3.8
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>

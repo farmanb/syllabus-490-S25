@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-05">
+  <title>April 7 <ndash/> April 11</title>
+  <p>
+    <dl>
+      <li>
+	<title>April 7</title>
+	<p>
+	  <ul>
+	    <li>
+	      <p>
+		Structures
+		<ul>
+		  <li>
+		    <p><url href="https://lean-lang.org/theorem_proving_in_lean4/structures_and_records.html">Theorem Proving in Lean, Ch. 9</url></p>
+		  </li>
+		  <li>
+		    <p>Hitchhiker's Guide to Logical Verification, <section-mark/>5.5</p>
+		  </li>
+		</ul>
+	      </p>
+	    </li>
+	    <li>
+	      <p>
+		Type Classes
+		<ul>
+		  <li>
+		    <p>
+		      <url href="https://lean-lang.org/theorem_proving_in_lean4/type_classes.html">Theorem Proving in Lean, Ch. 10</url>
+		    </p>
+		  </li>
+		  <li>
+		    <p>Hitchhiker's Guide to Logical Verification, <section-mark/>5.6</p>
+		  </li>
+		</ul>
+	      </p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>April 9</title>
+	<p>
+	  Sets
+	  <ul>
+	    <li>
+	      <p><url href="https://leanprover-community.github.io/mathematics_in_lean/C04_Sets_and_Functions.html#sets">Mathematics in Lean, <section-mark/> 4.1</url></p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<title>April 11</title>
+	<p>
+	  Sets
+	  <ul>
+	    <li>
+	      <p><url href="https://leanprover-community.github.io/mathematics_in_lean/C04_Sets_and_Functions.html#sets">Mathematics in Lean, <section-mark/> 4.1</url></p>
+	    </li>
+	  </ul>
+	</p>
+      </li>
+    </dl>
+  </p>
+</subsection>
